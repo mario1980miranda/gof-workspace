@@ -1,5 +1,5 @@
 
-public class MinhaApp {
+public class MainPrototype {
 
 	public static void main(String[] args) {
 		//Carregar os diferentes tipos de notas musicais

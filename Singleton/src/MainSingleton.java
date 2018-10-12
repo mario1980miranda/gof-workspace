@@ -1,5 +1,5 @@
 
-public class MinhaApp {
+public class MainSingleton {
 
 	public static void main(String[] args) {
 		Janela j = Janela.getInstance();
